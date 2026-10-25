@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff9ecf,50:d8a4f7,100:a855f7&text=Hi%2C%20I'm%20Carla&fontColor=ffffff&fontSize=52&font=Georgia&fontAlignY=38&desc=Computer%20Science%20Engineer%20Student&descSize=20&descAlignY=60" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff9ecf,50:d8a4f7,100:a855f7&text=Hi%2C%20I'm%20Carla&fontColor=ffffff&fontSize=52&font=Georgia&fontAlignY=38&desc=Computer%20Science%20Enginner%20Student&descSize=20&descAlignY=60" width="100%" alt="Header" />
 
 <a href="https://github.com/carlarodriguezvm">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&pause=2000&color=D946EF&center=true&vCenter=true&width=760&lines=%22Nothing+in+life+is+to+be+feared%2C+it+is+only+to+be+understood.%22+%E2%80%94+Marie+Curie;%22The+more+I+study%2C+the+more+insatiable+do+I+feel+my+genius+for+it+to+be.%22+%E2%80%94+Ada+Lovelace;%22The+most+dangerous+phrase+is%3A+we+have+always+done+it+this+way.%22+%E2%80%94+Grace+Hopper;%22Like+what+you+do%2C+and+then+you+will+do+your+best.%22+%E2%80%94+Katherine+Johnson" alt="Quotes from women in STEM" />
@@ -53,11 +53,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlarodriguezvm&bg_color=1e1030&color=e9d5ff&line=f472b6&point=c084fc&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="95%" />
-
-</div>
 
 ---
 
